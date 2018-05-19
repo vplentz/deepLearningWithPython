@@ -1,2 +1,2 @@
 # deepLearningWithPython
-This is are some implementations that can be found in the book "Deep learning with Python - François Chollet". 
+In this repository you'll find implementations of the book "Deep learning with Python - François Chollet". 
